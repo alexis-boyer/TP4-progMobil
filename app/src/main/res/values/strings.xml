@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP4</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="action_settings">settings</string>
+    <string name="action_other">other</string>
+    <string name="titre_section0">Minéreaux</string>
+    <string name="titre_section1">Végéteaux</string>
+    <string name="titre_section2">Animaux</string>
+</resources>
